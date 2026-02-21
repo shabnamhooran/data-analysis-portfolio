@@ -26,3 +26,13 @@ The dataset contains customer transaction data including purchase frequency, mon
 
 ## Business Impact
 This analysis helps businesses improve customer retention, personalize marketing campaigns, and increase overall revenue by focusing on high-value segments.
+## Results Summary
+
+- VIP customers represent 48% of the customer base.
+- Regular customers represent 52% of the base.
+- Average revenue per VIP customer: 26,898
+- Average revenue per Regular customer: 11,509
+
+VIP customers generate more than **2x higher revenue per customer** compared to Regular customers.
+
+This suggests that focusing on retention and loyalty strategies for VIP customers can significantly increase overall profitability.
